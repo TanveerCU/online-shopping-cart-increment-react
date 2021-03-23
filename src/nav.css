@@ -1,0 +1,8 @@
+.navbar{
+    padding-bottom: .1rem;
+    padding-top: 1rem;
+    /* background-image: linear-gradient(120deg,gray,black); */
+    text-decoration: none;
+    display: block;
+}
+
