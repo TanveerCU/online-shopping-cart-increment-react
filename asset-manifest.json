@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/online-shopping-cart-increment-react/static/css/main.c18d56e1.chunk.css",
+    "main.js": "/online-shopping-cart-increment-react/static/js/main.24a5f22b.chunk.js",
+    "main.js.map": "/online-shopping-cart-increment-react/static/js/main.24a5f22b.chunk.js.map",
+    "runtime-main.js": "/online-shopping-cart-increment-react/static/js/runtime-main.06393353.js",
+    "runtime-main.js.map": "/online-shopping-cart-increment-react/static/js/runtime-main.06393353.js.map",
+    "static/css/2.ef9168ec.chunk.css": "/online-shopping-cart-increment-react/static/css/2.ef9168ec.chunk.css",
+    "static/js/2.b6ba4982.chunk.js": "/online-shopping-cart-increment-react/static/js/2.b6ba4982.chunk.js",
+    "static/js/2.b6ba4982.chunk.js.map": "/online-shopping-cart-increment-react/static/js/2.b6ba4982.chunk.js.map",
+    "index.html": "/online-shopping-cart-increment-react/index.html",
+    "static/css/2.ef9168ec.chunk.css.map": "/online-shopping-cart-increment-react/static/css/2.ef9168ec.chunk.css.map",
+    "static/css/main.c18d56e1.chunk.css.map": "/online-shopping-cart-increment-react/static/css/main.c18d56e1.chunk.css.map",
+    "static/js/2.b6ba4982.chunk.js.LICENSE.txt": "/online-shopping-cart-increment-react/static/js/2.b6ba4982.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06393353.js",
+    "static/css/2.ef9168ec.chunk.css",
+    "static/js/2.b6ba4982.chunk.js",
+    "static/css/main.c18d56e1.chunk.css",
+    "static/js/main.24a5f22b.chunk.js"
+  ]
+}
